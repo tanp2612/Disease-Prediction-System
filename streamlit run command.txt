@@ -1,0 +1,4 @@
+streamlit run "C:\Users\Vedantika\Desktop\DPSs\DPS\mdp.py"
+
+
+
